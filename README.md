@@ -8,3 +8,6 @@
 5. Random Forest
 6. SVM
 7. Naive Bayes
+8. KNN
+
+Then all the methods were compared.
